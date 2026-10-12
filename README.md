@@ -1,5 +1,5 @@
         # Hi there, I'm MOHAMMED 
-# CEO : Rimal Holding Group
+CEO : Rimal Holding Group
 
 Welcome     to my GitHub profile!
 
