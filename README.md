@@ -1,8 +1,9 @@
-        # Hi there, I'm Rimal 👋
+        # Hi there, I'm MOHAMMED 
+# CEO : Rimal Holding Group
 
 Welcome     to my GitHub profile!
 
-## 🚀 About Me
+##  About Me
 
 - 💻 Passionate about software development
 - 🌱 Always learning and growing
